@@ -1,0 +1,166 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An Account of the tryal of William Clamp boatswain of their majesties ship the York, and his mate William Griffin, together with Sergeant Vallune, before the Honourable Sir Francis Wheeler, admiral of the Mediteranean Squadron, and reer-admiral of the Red, and the Right Honourable the Earl of Danby, reer-admiral of the Blew, on board their majesties ship the Carlisle : the two former for cheating the king, in embezzling their majesties stores, the latter for killing his fellow soldier, who being convicted and condemned, were executed on board at Portsmouth on Friday the 24th of this instant November 1693 : with their behaviour at the execution.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1693</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 5 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A75784</idno>
+            <idno type="STC">Wing A417B</idno>
+            <idno type="STC">ESTC R43591</idno>
+            <idno type="EEBO-CITATION">42474998</idno>
+            <idno type="OCLC">ocm 42474998</idno>
+            <idno type="VID">151099</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A75784)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 151099)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2243:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An Account of the tryal of William Clamp boatswain of their majesties ship the York, and his mate William Griffin, together with Sergeant Vallune, before the Honourable Sir Francis Wheeler, admiral of the Mediteranean Squadron, and reer-admiral of the Red, and the Right Honourable the Earl of Danby, reer-admiral of the Blew, on board their majesties ship the Carlisle : the two former for cheating the king, in embezzling their majesties stores, the latter for killing his fellow soldier, who being convicted and condemned, were executed on board at Portsmouth on Friday the 24th of this instant November 1693 : with their behaviour at the execution.</title>
+               </titleStmt>
+               <extent>1 sheet (2 p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed for R. Lyford in Holborn,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1693.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Published by authority."</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in: Newberry Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Clamp, William, d. 1693.</term>
+               <term>Griffin, William, d. 1693.</term>
+               <term>Vallune, John, d. 1693.</term>
+               <term>Wheeler, Francis, --  Sir, 1656?-1694.</term>
+               <term>Trials (Naval offenses) --  Great Britain.</term>
+               <term>Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:151099:1" rendition="simple:additions"/>
+            <head>An Account of THE TRYAL OF WILLIAM CLAMP, Boatſwain of Their Majeſties Ship the <hi>York,</hi> and his Mate <hi>William Griffin,</hi> together with Sergeant <hi>Vallune;</hi> Before the Honourable Sir Francis Wheeler, <hi>Admiral</hi> of the <hi>Mediteranean Squadron,</hi> and <hi>Reer-Admiral</hi> of the <hi>Red:</hi> And the Right Honourable The Earl of Danby, <hi>Reer-Admiral</hi> of the <hi>Blew.</hi> On Board Their Majeſties Ship the <hi>Carliſle.</hi> The Two Former for Cheating the King, in Embezeling Their Majeſties Stores: The Latter for Killing his Fellow Soldier: VVho being Convicted and Condemned, were Executed on Board at <hi>Portſmouth</hi> on <hi>Friday</hi> the <hi>24th.</hi> of this Inſtant <hi>November</hi> 1693. VVith their Behaviour at the Execution.</head>
+            <argument>
+               <p>Publiſhed by Authority.</p>
+            </argument>
+            <p>SIR <hi>Francis Wheeler,</hi> Admi<g ref="char:EOLhyphen"/>ral of the <hi>Mediterranean Squadron,</hi> and Rear Admi<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>al of the <hi>Red</hi> of <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>heir Majeſties <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>leet, hoiſted his Flag on Board <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>heir Majeſties Ship <hi>Carliſle,</hi> on <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he <hi>24th.</hi> Ultimo: and on the <hi>
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>6th.</hi> following, made his Signal <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>or a Council of War, upon which <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he Right Honourable the Earl <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>f <hi>Danby</hi> Rear Admiral of the <hi>Blew,</hi> and Captains of the <hi>Fleet</hi> 
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s uſually, came on Board, where <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eing Set, <hi>William Clamp</hi> and his Mate <hi>William Griffin</hi> where brought before the Honourable Board, and Four Evidences, <hi>Ro<g ref="char:EOLhyphen"/>bert Fielding, Daniel Browſe, Henry Seagood,</hi> and <hi>Thomas Chan<g ref="char:EOLhyphen"/>dler,</hi> likewiſe belonging to the <hi>York,</hi> by <hi>Mathias Budwel,</hi> Pro<g ref="char:EOLhyphen"/>veſt Marſhal of Their Majeſties Fleet. The Evidence for the King Swore, That Boatſwain <hi>Clamp</hi> receiving ſome Stores a ſhore, inſtad of bringing them on Board the <hi>York,</hi> put them on Board a <hi>Ketch,</hi> and ſent his Mate a ſhore a day or two following to receive Money for them, which Money the Evidence Swore they ſaw them telling over in the Mates Cabin: The Boatſwain and his Mate both denied the Fact, and ſaid they were brought on Board, and alledg'd that the Evidence had Threatned to be Reveng'd of them, becauſe they had beat them for their Lazineſs on Board, however this Inſinuation did not prevail, for the Unanimous Vote of the Board declar'd them both Guilty; upon which they were confin'd to the Boatſwain's Cabin of the <hi>Carliſle,</hi> where they be<g ref="char:EOLhyphen"/>wail'd their Misfortune with great
+<pb n="2" facs="tcp:151099:2"/>Penitence, continuing to aſſert their Innocence, particularly the Mate, owning they had been Tardy ſermerly.</p>
+            <p>Every day of the laſt Week, the Chaplain of the St. <hi>Michael</hi> came on Board to Viſit them, and Inſtruct them to prepare for a better World. On <hi>Thurſday</hi> laſt he told them they muſt deſpair of a Pardon, and direct their Petiti<g ref="char:EOLhyphen"/>ons to Almighty God, and beg Pardon for their Sins, by making an open Confeſſion of them; the Boatſwain told him, he had been a great Sinner, and had two Wives Living, One at <hi>Chatham,</hi> and another at <hi>Portſmouth,</hi> that he deſerv'd Death, but denied the preſent Fact. The Mate for<g ref="char:EOLhyphen"/>gave the Evidence very heartily, and thanked them for the kindneſs they had done him, hoping by their wrong Accuſation, he might enjoy Heaven, and ſeem'd very well pleaſed at his Change. On <hi>Sunday</hi> the <hi>19th.</hi> they receiv'd the Sacrament, and within two hours after were carried on Board the St. <hi>Michael,</hi> Guarded by the Pro<g ref="char:EOLhyphen"/>veſt Marſhal, Corporal, and Mus<g ref="char:EOLhyphen"/>quetiers. This morning a Coun<g ref="char:EOLhyphen"/>cil of War was call'd on Board the St. <hi>Michael,</hi> (where the Flag now is) and about Eleven a Clock they were both Hang'd, the Boat<g ref="char:EOLhyphen"/>ſwain at the <hi>Starboard fore Yard-Arm,</hi> and his Mate at the <hi>Larboard fore Yard-Arm.</hi>
+            </p>
+            <p>
+               <hi>John Valune</hi> a <hi>Switzer,</hi> had been in the Service ever ſince the War, formerly a Soldier in <hi>France,</hi> and Barber Chyrurgion by Pro<g ref="char:EOLhyphen"/>feſſion; one Night on Board the <hi>Berwick,</hi> he and one <hi>William Pike</hi> an <hi>Iriſh</hi> man being both drunk, they could not agree about a peice of Candle, and falling out; they fell to Blows, upon which <hi>Vallune</hi> gave him a Cut from his Far to the end of his Mouth with hi<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Knife, upon which he was ſecur'd, and <hi>Pike</hi> taken into Cure and ſet a ſhore, where he dyed in a Fort<g ref="char:EOLhyphen"/>nights time of that Wound, as the Doctor Swore; he was likewiſe Tryed by the foregoing Honour<g ref="char:EOLhyphen"/>able Board on the ſame day as the Boatſwain, and having nothing to ſay for himſelf, he was found Guilty of wilful Murther; From which time, till he was Executed, he Repented very heartily of Sins, That he had been guilty of Who<g ref="char:EOLhyphen"/>ring and Drinking, and Irreligi<g ref="char:EOLhyphen"/>ous Life, and hoped that God would have Mercy on his poor Soul. He was Hang'd this mor<g ref="char:EOLhyphen"/>ning with the Boatſwain and hi<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Mate, at the <hi>Starboard main Yard-Arm.</hi>
+            </p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed for <hi>R. Lyford</hi> in <hi>Holborn,</hi> 1693.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
